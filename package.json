@@ -1,0 +1,21 @@
+{
+  "name": "testafofo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "all": "npx playwright test  tests/e2e/*/*.spec.ts",
+    "login": "npx playwright test tests/e2e/01-login/*.spec.ts",
+    "account": "npx playwright test tests/e2e/02-account/*.spec.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  },
+  "dependencies": {
+    "allure-playwright": "^3.0.8"
+  }
+}

@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  playwright:
+    build: .
+    volumes:
+      - ./allure-results:/app/allure-results  # Mapeia o diretório de resultados do Allure

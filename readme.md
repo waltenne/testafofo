@@ -1,6 +1,11 @@
-# Projeto de Automação com Playwright, Allure e TypeScript
+## Testafofo
 
-Bem-vindo ao repositório do projeto de automação! Este projeto foi criado para servir como material de aprendizado em um workshop, utilizando Playwright para automação de testes, Allure para geração de relatórios e TypeScript como linguagem de programação.
+## Projeto de Automação com Playwright, Allure e TypeScript
+
+![repository_logo.png](docs/images/repository_logo.png)
+
+
+Bem-vindo ao repositório do projeto de automação! Este projeto foi criado para servir como material de aprendizado, utilizando Playwright para automação de testes, Allure para geração de relatórios e TypeScript como linguagem de programação.
 
 ## Índice da Documentação
 
@@ -10,8 +15,6 @@ Bem-vindo ao repositório do projeto de automação! Este projeto foi criado par
 4. [Executando os Testes no Docker](docs/running_tests_docker.md)
 5. [Page Object Model (POM)](docs/page_object_model.md)
 6. [Boas Práticas](docs/best_practices.md)
-7. [Evoluindo o Projeto](docs/evolving_project.md)
-7. [Workshop](docs/workshop.md)
 
 ## Visão Geral do Projeto
 

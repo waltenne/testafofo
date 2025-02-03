@@ -33,12 +33,7 @@ jobs:
         run: npm install
 
       - name: Run Playwright tests
-        run: npx playwright test
-
-      - name: Generate Allure report
-        run: |
-          npm install -g allure-commandline
-          allure serve allure-results
+        run: npm run all
 ```
 
 ### b) GitLab CI
@@ -54,7 +49,7 @@ playwright:
   image: mcr.microsoft.com/playwright:v1.50.0
   script:
     - npm install
-    - npx playwright test
+    - npm run all
   artifacts:
     paths:
       - allure-results/

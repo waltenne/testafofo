@@ -24,7 +24,7 @@ Este projeto é uma estrutura de automação de testes end-to-end (E2E) que util
 - **[Allure](https://docs.qameta.io/allure/)**: Ferramenta de geração de relatórios de testes.
 - **[TypeScript](https://www.typescriptlang.org/)**: Linguagem de programação que adiciona tipagem estática ao JavaScript.
 
-A estrutura do projeto foi organizada para facilitar a manutenção e o entendimento, seguindo boas práticas como o padrão **Page Object Model (POM)**.
+A estrutura do projeto foi organizada para facilitar a manutenção e o entendimento, seguindo boas práticas como o padrão **[Page Object Model (POM)](docs/page_object_model.md)**.
 
 # Contribuindo
 

@@ -18,7 +18,7 @@ Bem-vindo ao repositório do projeto de automação! Este projeto foi criado par
 
 ## Visão Geral do Projeto
 
-Este projeto é uma estru~~tura de automação de testes end-to-end (E2E) que utiliza as seguintes tecnologias:
+Este projeto é uma estrutura de automação de testes end-to-end (E2E) que utiliza as seguintes tecnologias:
 
 - **[Playwright](https://playwright.dev/)**: Ferramenta de automação de testes para navegadores modernos.
 - **[Allure](https://docs.qameta.io/allure/)**: Ferramenta de geração de relatórios de testes.

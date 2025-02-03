@@ -9,15 +9,15 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/testafofo.git
+   git clone https://github.com/waltenne/testafofo.git
    ```
 
-2. Navega para o repositório:
+2. Navegue para o diretório do projeto:
    ```bash
    cd testafofo
    ```
 
-3. Instala as dependências:
+3. Instale as dependências:
    ```bash
    npm install
    ```
